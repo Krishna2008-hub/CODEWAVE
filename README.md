@@ -1,2 +1,2 @@
 # CODEWAVE
-<h3>Code Of all question's</h3>
+<h3>Code Of All Question's</h3>
